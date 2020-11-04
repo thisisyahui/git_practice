@@ -1,0 +1,1 @@
+This is the first time I try to use command line to create a file
